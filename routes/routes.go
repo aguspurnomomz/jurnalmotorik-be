@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/aguspurnomomz/journalmotorik-app-be/controllers"
+	"github.com/aguspurnomomz/jurnalmotorik-app-be/controllers"
 )
 
 func SetupRoutes(r *gin.Engine) {

@@ -1,4 +1,4 @@
-module github.com/aguspurnomomz/journalmotorik-be
+module github.com/aguspurnomomz/jurnalmotorik-be
 
 go 1.25.5
 

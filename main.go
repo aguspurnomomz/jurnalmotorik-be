@@ -8,8 +8,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
 
-	"github.com/aguspurnomomz/journalmotorik-app-be/config"
-	"github.com/aguspurnomomz/journalmotorik-app-be/routes"
+	"github.com/aguspurnomomz/jurnalmotorik-be/config"
+	"github.com/aguspurnomomz/jurnalmotorik-be/routes"
 )
 
 func main() {
