@@ -1,8 +1,8 @@
 package routes
 
 import (
+	"github.com/aguspurnomomz/jurnalmotorik-be/controllers"
 	"github.com/gin-gonic/gin"
-	"github.com/aguspurnomomz/jurnalmotorik-app-be/controllers"
 )
 
 func SetupRoutes(r *gin.Engine) {
